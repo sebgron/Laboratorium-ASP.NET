@@ -1,0 +1,30 @@
+@model Car
+
+@{
+    Layout = null;
+}
+
+<h1>Lista samochodów</h1>
+<div>
+    <table class="table">
+        <tr>
+            <th>Producent</th>
+            <th>Model</th>
+            <th>Nr rejestracyjny</th>
+            <th>Akcje</th>
+        </tr>
+        @foreach(var item in @Model)
+        {
+            <tr>
+                <td>@item.Value.Producer</td>
+                <td>@item.Value.Model</td>
+                <td>@item.Value.LicencePlate</td>
+                <td>
+                    <a class="btn btn-outline-primary" asp-controller="Contact" asp-action="Update" asp-route-id="@item.Value.Id">Edycja</a>
+                    <a class="btn btn-outline-primary" asp-controller="Contact" asp-action="Details" asp-route-id="@item.Value.Id">Szczegóły</a>
+                    <a class="btn btn-outline-danger" asp-controller="Contact" asp-action="Delete" asp-route-id="@item.Value.Id">Usuń</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>
