@@ -34,6 +34,7 @@
         <label asp-for="EngineType">Rodzaj silnika</label>
         <input class="form-control" asp-for="EngineType" />
         <span class="text-danger" asp-validation-for="EngineType"></span>
+        <select class="form-control" asp-for="EngineType" asp-items="@Html.GetEnumSelectList<CarEngineTypes>()"></select>
     </div>
     
     <div class="mb-3">

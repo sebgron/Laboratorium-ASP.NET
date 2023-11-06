@@ -5,11 +5,15 @@ namespace Laboratorium_3___App.Controllers;
 
 public class CarController : Controller
 {
-    static readonly Dictionary<int, Car> _car = new Dictionary<int, Car>();
-            static int index = 1;
-            public IActionResult Index()
+    private readonly ICarService _carService;        
+    
+    public CarController(ICarService carService)
+    {
+        _carService = carService;
+    }
+    public IActionResult Index()
             {
-                return View(_car);
+                return View(_car.Values.ToList());
             }
     
             [HttpGet]
