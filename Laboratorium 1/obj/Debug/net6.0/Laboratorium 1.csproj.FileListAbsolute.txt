@@ -1,0 +1,31 @@
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/bin/Debug/net6.0/appsettings.Development.json
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/bin/Debug/net6.0/appsettings.json
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/bin/Debug/net6.0/Laboratorium 1.staticwebassets.runtime.json
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/bin/Debug/net6.0/Laboratorium 1
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/bin/Debug/net6.0/Laboratorium 1.deps.json
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/bin/Debug/net6.0/Laboratorium 1.runtimeconfig.json
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/bin/Debug/net6.0/Laboratorium 1.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/bin/Debug/net6.0/Laboratorium 1.pdb
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/Laboratorium 1.csproj.AssemblyReference.cache
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/Laboratorium 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/Laboratorium 1.AssemblyInfoInputs.cache
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/Laboratorium 1.AssemblyInfo.cs
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/Laboratorium 1.csproj.CoreCompileInputs.cache
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/Laboratorium 1.MvcApplicationPartsAssemblyInfo.cache
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/Laboratorium 1.RazorAssemblyInfo.cache
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/Laboratorium 1.RazorAssemblyInfo.cs
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/staticwebassets/msbuild.Laboratorium 1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/staticwebassets/msbuild.build.Laboratorium 1.props
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Laboratorium 1.props
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Laboratorium 1.props
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/staticwebassets.build.json
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/staticwebassets.development.json
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/scopedcss/bundle/Laboratorium 1.styles.css
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/scopedcss/projectbundle/Laboratorium 1.bundle.scp.css
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/Laboratorium 1.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/refint/Laboratorium 1.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/Laboratorium 1.pdb
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/Laboratorium 1.genruntimeconfig.cache
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 1/obj/Debug/net6.0/ref/Laboratorium 1.dll
