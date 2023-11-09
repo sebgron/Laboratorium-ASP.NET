@@ -1,8 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Laboratorium_2.Models;
+﻿using Laboratorium_2.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Laboratorium_2.Controllers
-{   
+{
+
+    public enum Operators
+    {
+        ADD, SUB, MUL, DIV
+    }
     public class CalculatorController : Controller
     {
         public IActionResult Index()
@@ -10,13 +15,14 @@ namespace Laboratorium_2.Controllers
             return View();
         }
 
+        
         public IActionResult Form()
         {
-            return View();
+            return View();  
         }
 
         [HttpPost]
-        public IActionResult Result([FromForm] CalculatorViewModel model)
+        public IActionResult Result([FromForm] Calculator model)
         {
             if (!model.IsValid())
             {

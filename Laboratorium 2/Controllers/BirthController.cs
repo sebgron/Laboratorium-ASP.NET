@@ -9,14 +9,15 @@ namespace Laboratorium_2.Controllers
         {
             return View();
         }
+
+
         public IActionResult Form()
         {
             return View();
         }
 
-
         [HttpPost]
-        public IActionResult Result([FromForm] BirthViewModel model)
+        public IActionResult Result([FromForm] Birth model)
         {
             if (!model.IsValid())
             {

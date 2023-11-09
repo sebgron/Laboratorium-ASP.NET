@@ -4,11 +4,11 @@ using System.Diagnostics;
 
 namespace Laboratorium_1.Controllers
 {
+
     public enum Operators
     {
         ADD, SUB, MUL, DIV
     }
-
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -28,25 +28,37 @@ namespace Laboratorium_1.Controllers
             return View();
         }
 
-        public IActionResult About([FromQuery(Name = "app-author")]string author) 
+        public IActionResult About([FromQuery(Name ="app-author")]string author)
         {
-            // string author = Request.Query["author"];
+            //string author = Request.Query["author"];
             ViewBag.Author = author;
+
             return View();
         }
-
-        public IActionResult Calculator([FromQuery(Name = "operator")]Operators op, double? a, double? b)
+        public IActionResult Kalkulator([FromQuery(Name = "operator")] Operators op,double ?x, double ?y)
         {
-            if (a == null || b == null) { return View("Error"); }
-
+            if (x == null || y == null)
+            {
+                return View("Error");
+            }
             switch (op)
             {
-                case Operators.ADD: ViewBag.Result = a + b; break;
-                case Operators.SUB: ViewBag.Result = a - b; break;
-                case Operators.MUL: ViewBag.Result = a * b; break;
-                case Operators.DIV: ViewBag.Result = a / b; break;
+                case Operators.ADD:
+                    ViewBag.result = x + y;
+                    break;
+                case Operators.SUB:
+                    ViewBag.result = x - y;
+                    break;
+                case Operators.MUL:
+                    ViewBag.result = x * y;
+                    break;
+                case Operators.DIV:
+                    ViewBag.result = x / y;
+                    break;
+
             }
 
+            //ViewBag.result = x + y;
             return View();
         }
 
