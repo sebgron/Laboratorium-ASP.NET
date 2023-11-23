@@ -17,4 +17,10 @@
     <_ContentIncludedByDefault Remove="Views\Car\Update.cshtml" />
   </ItemGroup>
 
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj" />
+  </ItemGroup>
+
 </Project>

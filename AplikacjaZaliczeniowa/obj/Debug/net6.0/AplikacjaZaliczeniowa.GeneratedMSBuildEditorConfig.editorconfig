@@ -16,12 +16,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/AplikacjaZaliczeniowa
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/AplikacjaZaliczeniowa/Views/Car/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/AplikacjaZaliczeniowa/Views/Car/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/AplikacjaZaliczeniowa/Views/Car/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/AplikacjaZaliczeniowa/Views/Car/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/AplikacjaZaliczeniowa/Views/Car/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyL1VwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/AplikacjaZaliczeniowa/Views/Home/Index.cshtml]

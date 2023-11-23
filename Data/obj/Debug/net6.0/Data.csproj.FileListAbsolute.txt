@@ -1,0 +1,14 @@
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/bin/Debug/net6.0/Data.deps.json
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/bin/Debug/net6.0/Data.runtimeconfig.json
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/bin/Debug/net6.0/Data.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/bin/Debug/net6.0/Data.pdb
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/obj/Debug/net6.0/Data.csproj.AssemblyReference.cache
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/obj/Debug/net6.0/Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/obj/Debug/net6.0/Data.AssemblyInfoInputs.cache
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/obj/Debug/net6.0/Data.AssemblyInfo.cs
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/obj/Debug/net6.0/Data.csproj.CoreCompileInputs.cache
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/obj/Debug/net6.0/Data.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/obj/Debug/net6.0/refint/Data.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/obj/Debug/net6.0/Data.pdb
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/obj/Debug/net6.0/Data.genruntimeconfig.cache
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Data/obj/Debug/net6.0/ref/Data.dll

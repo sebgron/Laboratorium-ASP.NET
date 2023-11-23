@@ -29,3 +29,40 @@
 /Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/obj/Debug/net6.0/Laboratorium 3 - App.pdb
 /Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/obj/Debug/net6.0/Laboratorium 3 - App.genruntimeconfig.cache
 /Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/obj/Debug/net6.0/ref/Laboratorium 3 - App.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/Data.dll
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/bin/Debug/net6.0/Data.pdb
+/Users/sebastiangron/Documents/Coding/Projects-for-studies/Semester 3/WSEI.Laboratorium-ASP.NET/Laboratorium 3 - App/obj/Debug/net6.0/Laboratorium 3 - App.csproj.CopyComplete
